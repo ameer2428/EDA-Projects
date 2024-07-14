@@ -1,3 +1,5 @@
 # EDA-Projects
 # US - Accident Analysis
 This is a countrywide car accident dataset that covers 49 states of the USA. The accident data were collected from February 2016 to March 2023, using multiple APIs that provide streaming traffic incident (or event) data. These APIs broadcast traffic data captured by various entities, including the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road networks. The dataset currently contains approximately 7.7 million accident records.
+# Olympics Analysis
+The Olympic Games are an international multi-sport event held every four years in which thousands of athletes from around the world participate in various sports competitions. The Olympics are one of the most significant and prestigious sporting events globally, promoting unity, friendship, and fair play among nations. Finding the insights of the data by visualizing it in such a way of getting top countries participating in it, number of medals won by the each country, how the gender is participating in it.
